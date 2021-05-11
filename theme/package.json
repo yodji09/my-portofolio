@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "emailjs-com": "^2.6.3",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "vue": "^2.6.11",
     "vuetify": "^2.2.25"
   },
